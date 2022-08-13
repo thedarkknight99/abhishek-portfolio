@@ -75,6 +75,11 @@ hr {
     font-size: 1.1rem;
 }
 
+.nav-brand {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 /* inside navigation class link class */
 .navigation .link {
     color: white;
@@ -148,4 +153,9 @@ ul {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     text-align: center;
+}
+
+.blog-center {
+    max-width: 800px;
+    margin: auto;
 }
