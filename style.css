@@ -139,6 +139,7 @@ footer {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    margin-top: 20px;
 }
 
 .footer .link {
